@@ -34,7 +34,7 @@ You can deploy the bot using heroku
  
 - 👇 Press the deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ts-Bots/DB_STATUS_VIEWER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DB-ROBOTS/DB_STATUS_VIEWER)
 
 
 ## Channel
