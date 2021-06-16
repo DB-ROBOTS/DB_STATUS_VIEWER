@@ -1,9 +1,9 @@
-# BotStatus-Ts-Bot 
+# DB_STATUS_VIEWER
 
 
 An open source telegram Bot Status bot
 
-- For demo you can check <b>[here](https://telegram.me/Ts_bots/8)</b> 
+- For demo you can check 
 
 - The status is updated in every 1 hour
 
@@ -34,7 +34,7 @@ You can deploy the bot using heroku
  
 - 👇 Press the deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ts-Bots/BOTSTATUS-TS-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ts-Bots/DB_STATUS_VIEWER)
 
 
 ## Channel
